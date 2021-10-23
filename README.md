@@ -1,1 +1,2 @@
-# goit-markup-hw-04-git
+# -goit-markup-hw-02.
+GoIt-HomeWork2-HTML+CSS
