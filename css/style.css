@@ -334,8 +334,8 @@ address {
 .our-team-social-links:focus {
   background-color: var(--hover-focus-color-others);
 }
-.our-team-content-icons:hover,
-.our-team-content-icons:focus {
+.our-team-social-links:hover .our-team-content-icons,
+.our-team-social-links:focus .our-team-content-icons {
   fill: #ffffff;
 }
 .our-team-content-icons {
