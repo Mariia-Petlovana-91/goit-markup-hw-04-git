@@ -499,6 +499,7 @@ address {
 }
 .links-project {
   display: block;
+  text-decoration: none;
 }
 .links-project:hover,
 .links-project:focus {
